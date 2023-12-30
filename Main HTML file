@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Life Path Number</title>
+</head>
+<body>
+    <h1>Life Path Number Calculator</h1>
+    <input type="text" id="birthdate" placeholder="DD/MM/YYYY">
+    <button onclick="calculateLifePath()">Calculate</button>
+    <div id="result"></div>
+</body>
+</html>
